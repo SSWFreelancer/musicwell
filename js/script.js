@@ -1,5 +1,5 @@
   var countDownFunction = setInterval(function(){
-  var countDownDate = new Date("May 25, 2022 1:03:00").getTime();
+  var countDownDate = new Date("August 12, 2022 1:03:00").getTime();
    var now = new Date().getTime();
    var distance = countDownDate - now;
    var days =  Math.floor(distance / (1000 * 3600 * 24));
